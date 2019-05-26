@@ -1,7 +1,10 @@
+import discord
 import random
 import asyncio
 import aiohttp
 import json
+import request
+import os
 from discord import Game
 from discord.ext.commands import Bot
 
